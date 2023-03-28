@@ -16,7 +16,7 @@
 Стёк:
 <ul>
   <li>React;</li>
-  <li>eact redux;</li>
+  <li>React redux;</li>
   <li>React redux-toolkit;</li>
   <li>WEB Pack;</li>
   <li>TypeScript;</li>
