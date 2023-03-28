@@ -26,11 +26,11 @@
   <li>React redux-toolkit;</li>
   <li>WEB Pack;</li>
   <li>TypeScript;</li>
-  <li>JavaScript</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>CSS Grid</li>
-  <li>Flex Box</li>
+  <li>JavaScript;</li>
+  <li>HTML5;</li>
+  <li>CSS3;</li>
+  <li>CSS Grid;</li>
+  <li>Flex Box;</li>
   <li>SCSS, SASS;</li>
   <li>Gulp;</li>
   <li>Git;</li>
