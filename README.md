@@ -7,8 +7,6 @@
 
 На данный момент ищу работу на позицию младшего специалиста или стажёра на минимальный зарплату в размере 20 000 р.
 
-Уважаемый работодатель здесь Вы можете ознакомится с моими работами которые были созданы во время обучения на курсах https://github.com/vadim-goncharenko
-
 Спасибо за внимание! С уважением Вадим.
 
 Навыки:
@@ -17,7 +15,11 @@
 
 Стёк:
 
-• React, React redux, React redux-toolkit, WEB Pack, TypeScript;
+• React;
+• React redux;
+• React redux-toolkit;
+• WEB Pack;
+• TypeScript;
 • опыт работы с HTML5, CSS3, JS; CSS GRID;
 • знание JavaScript/JQuery;
 • опыт адаптивной верстки, особенно на CSS GRID;
