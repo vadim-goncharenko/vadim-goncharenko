@@ -1,17 +1,11 @@
 Приветствую Вас! Уважаемый работодатель, хочу немного рассказать о себе начиная с 2020 года я начал обучатся в IT изучал на Udemy всё что связано с вёрсткой сайтов на данный момент на протяжении 8 месяцев в 2022 - 2023 годах усиленно изучал JS и React, пройдя несколько интенсивов и курсов по JS и React таких как: курс от Нетологии "React для JS-разработчиков", Хекслет "Подготовительный курс профессии frontend-разработчик", курсы по JS и React на Udemy, марафон "5 проектов за 5 дней", а также прочитано много документаций и просмотеренно бесплатных курсов с YouTube. Продолжаю изучать углублённо такой стёк: React, React redux, React redux-toolkit, WEB Pack, TS, в планах изучить NEXT JS, построение архитектуры приложения чтобы повысить свой уровень до Middle.
 
 Ссылки на дипломы здесь:
-<ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item
-    <ol>
-      <li>Indented item</li>
-      <li>Indented item</li>
-    </ol>
-  </li>
-  <li>Fourth item</li>
-</ol>
+<ul>
+  <li>Нетология (React) https://disk.yandex.ru/i/hSoqsU4qDRHUWg</li>
+  <li>Хекслет (JS) https://disk.yandex.ru/i/8KdzJmv7VdebZQ</li>
+  <li>Марафон (JS) https://disk.yandex.ru/i/-TLhgTDI5VVAEQ</li>
+</ul>
 
 Ссылки на дипломы здесь:
 Нетология (React) https://disk.yandex.ru/i/hSoqsU4qDRHUWg
