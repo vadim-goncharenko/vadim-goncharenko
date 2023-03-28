@@ -26,6 +26,6 @@
   <li>CSS Grid</li>
   <li>Flex Box</li>
   <li>SCSS, SASS;</li>
-  <li>Gulp</li>
-  <li>Git</li>
+  <li>Gulp;</li>
+  <li>Git;</li>
 </ul>
