@@ -23,7 +23,9 @@
   <li>JavaScript</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>CSS GRID</li>
+  <li>CSS Grid</li>
   <li>Flex Box</li>
   <li>SCSS, SASS;</li>
+  <li>Gulp</li>
+  <li>Git</li>
 </ul>
